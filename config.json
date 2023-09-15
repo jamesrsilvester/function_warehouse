@@ -1,7 +1,7 @@
 {
   "supportsTrack": true,
-  "supportsCohorts": false,
-  "supportsBackfill": false,
+  "supportsCohorts": true,
+  "supportsBackfill": true,
   "configFields": [{
     "key": "apiKey",
     "name": "API Key ",
